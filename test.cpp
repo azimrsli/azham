@@ -1,4 +1,4 @@
-void showDeviceEstimates() {
+sdfdsvoid showDeviceEstimates() {
 
 	system("CLS");
 
